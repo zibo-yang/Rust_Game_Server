@@ -1,2 +1,2 @@
 *.rs linguist-language=Rust
-./server/target/* linguist-vendored
+./server/target/**/* linguist-vendored
