@@ -14,7 +14,7 @@ After the server start on, open the telnet and set the local echo to make the fe
 ```bash
 telnet 127.0.0.1 80
 ```
-Then you can begin testing the server by typing and sending the message like ""
+After you see the keyword like connection on the server side, then you can begin testing the server by typing and sending the message like "Q12.map:1,2,3,4" and have a look at the corresponding feedback you receive from the rust server. All the efficient messages have been clarified in the specification below.
 ## Specification
 Please have a look at specification.pdf.
 
