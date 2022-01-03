@@ -18,3 +18,5 @@ After you see the keyword like connection on the server side, then you can begin
 ## Specification
 Please have a look at specification.pdf.
 
+## License
+Licensed under [MIT License](LICENSE)
